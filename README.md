@@ -12,11 +12,20 @@ The course will also cover applications for Natural Language Processing, explain
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Evaluate and overcome shortfalls in the linear regression model. 
-<LI>Using sparsity to regularize models. 
-<LI>Handle data and quantize an image. 
-<LI>Search with scikit-learn. 
-<LI>Optimize an SVM. </LI></UL></DIV>
+<LI>Work through detailed tutorials of projects such as ad ranking, sentiment classification, image retrieval, and threat detection.
+<LI> Use the most powerful and ubiquitous Machine Learning techniques 
+<LI> Dissect any machine learning research paper into actionable insights
+<LI>Develop a playbook for determining the best approach to any machine learning problem
+<LI>Use TensorFlow to build deep learning models
+<LI> Implement Convolutional Neural Networks for Computer Vision
+<LI>Build Recurrent Neural Networks for applications involving sequenced data such as natural language and stock prediction
+<LI>Segment images using computer vision
+<LI>Build a stock price prediction with recurrent neural networks
+<LI> Apply autoencoders for image denoising
+<LI>Work with Generative Adversarial Networks to enhance blurry photos
+
+  
+  </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
